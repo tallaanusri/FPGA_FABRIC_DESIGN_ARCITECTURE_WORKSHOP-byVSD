@@ -1,24 +1,26 @@
 # FPGA_FABRIC_DESIGN_And_ARCITECTURE_WORKSHOP-byVSD
 ---
 
-Its a Documentation of 10-Day's FPGA Fabric Design & Architecture Online Workshop conduted by VSD.This is the documentation of complete contents that i learned in this workshop like: implementation flow, analysis reports, simulations and FPGA architecture exploration performed during the FPGA Fabric Design and Architecture Workshop.
-This documented work focuses on understanding the complete FPGA implementation flow starting from RTL design to FPGA architecture generation,placement, routing, timing analysis, utilization analysis, power
-analysis, and post-implementation verification using open-source FPGA CAD tools.
+  Its a Documentation of 10-Day's FPGA Fabric Design & Architecture Online Workshop conduted by VSD.This is the documentation of complete contents that i learned in this workshop like: implementation flow, analysis reports, simulations and FPGA architecture exploration performed during the FPGA Fabric Design and Architecture Workshop.
+  
+  This documented work focuses on understanding the complete FPGA implementation flow starting from RTL design to FPGA architecture generation,placement, routing, timing analysis, utilization analysis, power analysis, and post-implementation verification using open-source FPGA CAD tools.
 
 The hands on flow of this document is:
--VTR (Verilog-to-Routing)
--VPR (Versatile Place and Route)
--OpenFPGA
--Vivado
--SOFA FPGA Fabric
--RISC-V Processor Core (RVMYTH)
+
+- VTR (Verilog-to-Routing)
+- VPR (Versatile Place and Route)
+- OpenFPGA
+- Vivado
+- SOFA FPGA Fabric
+- RISC-V Processor Core (RVMYTH)
 
 ---
 
 ## Workshop Overview
 
 This workshop provided a comprehensive understanding of the complete FPGA design flow on demonstrating how a digital RTL design is transformed into a hardware implementation on an FPGA using open-source FPGA CAD tools.
-This documententation is my learning and hands-on work completed during the **10-Day FPGA Fabric Design & Architecture Workshop**.Throughout this workshop, I explored the complete FPGA implementation process,That includes:
+This documententation is my learning and hands-on work completed during the **10-Day FPGA Fabric Design & Architecture Workshop**.Throughout this workshop, I explored the complete FPGA implementation process,
+That includes:
 
 * RTL Design
 * Functional Simulation
@@ -75,19 +77,19 @@ In addition to the implementation flow, this workshop also introduced the design
 
 ## RTL Design and Simulation
 
--Verilog HDL
--Testbench Creation
--RTL Functional Simulation
--Waveform Analysis
+- Verilog HDL
+- Testbench Creation
+- RTL Functional Simulation
+- Waveform Analysis
 
 ---
 
-##FPGA Architecture Exploration
+## FPGA Architecture Exploration
 
--EArch FPGA Architecture
--SOFA FPGA Fabric
--FPGA Resource Utilization
--Routing Congestion Analysis
+- EArch FPGA Architecture
+- SOFA FPGA Fabric
+- FPGA Resource Utilization
+- Routing Congestion Analysis
 
 ---
 
@@ -101,22 +103,22 @@ In addition to the implementation flow, this workshop also introduced the design
 
 ---
 
-##FPGA CAD Flow
+## FPGA CAD Flow
 
--RTL Synthesis
--Technology Mapping
--Placement
--Routing
--Bitstream Generation
+- RTL Synthesis
+- Technology Mapping
+- Placement
+- Routing
+- Bitstream Generation
 
 ---
 
 ## Open-Source FPGA Flow
 
--FPGA Fabric Generation
--FPGA Architecture Mapping
--Netlist Generation
--Post Implementation Simulation
+- FPGA Fabric Generation
+- FPGA Architecture Mapping
+- Netlist Generation
+- Post Implementation Simulation
 
 ---
 
@@ -138,12 +140,12 @@ In addition to the implementation flow, this workshop also introduced the design
 
 ---
 
-##Timing Analysis
+## Timing Analysis
 
--Setup Timing
--Hold Timing
--Critical Path Analysis
--Timing Constraints using SDC
+- Setup Timing
+- Hold Timing
+- Critical Path Analysis
+- Timing Constraints using SDC
 
 ---
 ## Key Concepts 
