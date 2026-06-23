@@ -1,4 +1,4 @@
-# FPGA_FABRIC_DESIGN_ARCITECTURE_WORKSHOP-byVSD
+# FPGA_FABRIC_DESIGN_And_ARCITECTURE_WORKSHOP-byVSD
 ---
 
 Its a Documentation of 10-Day's FPGA Fabric Design & Architecture Online Workshop conduted by VSD.This is the documentation of complete contents that i learned in this workshop like: implementation flow, analysis reports, simulations and FPGA architecture exploration performed during the FPGA Fabric Design and Architecture Workshop.
